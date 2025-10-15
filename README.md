@@ -1,1 +1,2 @@
-# Aplikacje-w-rodowisku-kontenerowym
+# Aplikacje-w-srodowisku-kontenerowym
+repozytorium do Aplikacji w srodowisku kontenerowym
